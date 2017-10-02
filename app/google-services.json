@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1094030756838",
+    "firebase_url": "https://zaikafoodcorner-a5afe.firebaseio.com",
+    "project_id": "zaikafoodcorner-a5afe",
+    "storage_bucket": "zaikafoodcorner-a5afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094030756838:android:f6753d6808a3924a",
+        "android_client_info": {
+          "package_name": "com.example.gargc.zaikafoodcorner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094030756838-thbqb9636hoptftehr0vg4ooh934k8ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gargc.zaikafoodcorner",
+            "certificate_hash": "b29316b87204b3ee125990feabf6d0b446840308"
+          }
+        },
+        {
+          "client_id": "1094030756838-j5224tp4gq34sds6672q1c5u7qsj1d3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF4-rWUqOdb4K5Yj5Pzkh6j9E_UXzTJg0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094030756838-j5224tp4gq34sds6672q1c5u7qsj1d3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
